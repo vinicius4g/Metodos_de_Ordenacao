@@ -3,10 +3,14 @@
 
 ## 💻 Projeto // Project
 A pasta contém varios metodos de ordenação.
+<br>
 The folder contains several sorting algorithms. 
+<br>
+<br>
 <br>
 ## 🔨 Tecnologia // Tech
 Linguagem utilizada c++ 
+<br>
 Language used c ++
 
 
